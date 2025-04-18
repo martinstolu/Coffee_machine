@@ -1,5 +1,5 @@
 # Coffee Machine ☕
-A simple command-line Coffee Machine simulator built using Python. This project is part of the 100 Days of Code: Python Bootcamp by Dr. Angela Yu (Day 15).
+A simple command-line Coffee Machine simulator built using Python. 
 
 ## 💡 Features
 - Choose from espresso, latte, or cappuccino
